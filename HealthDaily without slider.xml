@@ -868,7 +868,7 @@ embed, img, object, video {max-width: 100%;}
  Happy blogging from BTemplates.com :)
 -->
 <li class='social-profiles-widget'>
-<a href='http://twitter.com/YOUR_USERNAME' target='_blank'><img alt='Twitter' src='https://2.bp.blogspot.com/-_atBO2nq95A/VxCvJ5YDQ0I/AAAAAAAAA1c/pUxYBtNG7nQ/s000/twitter.png' title='Twitter'/></a><a href='http://facebook.com/YOUR_USERNAME' target='_blank'><img alt='Facebook' src='https://3.bp.blogspot.com/-FqlektBVvjo/VxCvKL3-G-I/AAAAAAAAA1k/OXsNZpVYIXU/s000/facebook.png' title='Facebook'/></a><a href='https://plus.google.com/' target='_blank'><img alt='Google Plus' src='https://2.bp.blogspot.com/-rr_g3JeYbQc/VxCvKPonmZI/AAAAAAAAA1s/bPB4oD9WsZk/s000/gplus.png' title='Google Plus'/></a><a href='http://www.linkedin.com/' target='_blank'><img alt='LinkedIn' src='https://4.bp.blogspot.com/-ikTfJsGe20k/VxCvKRU3zzI/AAAAAAAAA10/XQnYYcQuYAc/s000/linkedin.png' title='LinkedIn'/></a><a expr:href='data:blog.homepageUrl + &quot;feeds/posts/default&quot;' target='_blank'><img alt='RSS Feed' src='https://3.bp.blogspot.com/-9DtyH1hEvog/VxCvKgtnF1I/AAAAAAAAA18/WAKNMlokSsg/s000/rss.png' title='RSS Feed'/></a><a href='mailto:your@email.com' target='_blank'><img alt='Email' src='https://3.bp.blogspot.com/-ZSh9L34tdmY/VxCvK0uKGiI/AAAAAAAAA2E/zIlPJW7a748/s000/email.png' title='Email'/></a>
+<a href='http://twitter.com/mzaini30' target='_blank'><img alt='Twitter' src='https://2.bp.blogspot.com/-_atBO2nq95A/VxCvJ5YDQ0I/AAAAAAAAA1c/pUxYBtNG7nQ/s000/twitter.png' title='Twitter'/></a><a href='http://facebook.com/mzaini30' target='_blank'><img alt='Facebook' src='https://3.bp.blogspot.com/-FqlektBVvjo/VxCvKL3-G-I/AAAAAAAAA1k/OXsNZpVYIXU/s000/facebook.png' title='Facebook'/></a><a href='https://plus.google.com/' target='_blank'><img alt='Google Plus' src='https://2.bp.blogspot.com/-rr_g3JeYbQc/VxCvKPonmZI/AAAAAAAAA1s/bPB4oD9WsZk/s000/gplus.png' title='Google Plus'/></a><a href='http://www.linkedin.com/' target='_blank'><img alt='LinkedIn' src='https://4.bp.blogspot.com/-ikTfJsGe20k/VxCvKRU3zzI/AAAAAAAAA10/XQnYYcQuYAc/s000/linkedin.png' title='LinkedIn'/></a><a expr:href='data:blog.homepageUrl + &quot;feeds/posts/default&quot;' target='_blank'><img alt='RSS Feed' src='https://3.bp.blogspot.com/-9DtyH1hEvog/VxCvKgtnF1I/AAAAAAAAA18/WAKNMlokSsg/s000/rss.png' title='RSS Feed'/></a><a href='mailto:your@email.com' target='_blank'><img alt='Email' src='https://3.bp.blogspot.com/-ZSh9L34tdmY/VxCvK0uKGiI/AAAAAAAAA2E/zIlPJW7a748/s000/email.png' title='Email'/></a>
 </li>
 </ul>
 </div>
@@ -1620,7 +1620,19 @@ embed, img, object, video {max-width: 100%;}
 </b:if>
 
 <b:if cond='data:blog.pageType == &quot;item&quot;'>
-<div style='clear:both;'/>
+
+	<br><br>
+<p>Buat kawan-kawan pengunjung setia blog ini, kamu bisa berdiskusi denganku tentang apapun (yang penting nggak SARA sama SARU) melalui akun-akun berikut ini:</p>
+<ul>
+<li>Facebook: <a href="http://facebook.com/mzaini30" target="_blank">facebook.com/mzaini30</a></li>
+<li>Twitter: <a href="http://twitter.com/mzaini30" target="_blank">@mzaini30</a></li>
+<li>LINE: <a href="http://line.me/ti/p/~mzaini30" target="_blank">mzaini30</a></li>
+<li>Telegram: <a href="http://telegram.me/mzaini30" target="_blank">@mzaini30</a></li>
+<li>Instagram: <a href="http://instagram.com/mzaini30" target="_blank">mzaini30</a></li>
+</ul>
+	
+	
+	<div style='clear:both;'/>
 <div class='post-share-buttons'>
 <b:include data='post' name='shareButtons'/>
 </div>
