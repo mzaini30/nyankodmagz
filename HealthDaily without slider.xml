@@ -1621,7 +1621,7 @@ embed, img, object, video {max-width: 100%;}
 
 <b:if cond='data:blog.pageType == &quot;item&quot;'>
 
-	<br><br>
+	<br/><br/>
 <p>Buat kawan-kawan pengunjung setia blog ini, kamu bisa berdiskusi denganku tentang apapun (yang penting nggak SARA sama SARU) melalui akun-akun berikut ini:</p>
 <ul>
 <li>Facebook: <a href="http://facebook.com/mzaini30" target="_blank">facebook.com/mzaini30</a></li>
